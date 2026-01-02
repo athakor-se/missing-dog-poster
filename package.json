@@ -18,7 +18,7 @@
     "@angular/platform-browser": "^18.2.0",
     "rxjs": "^7.8.1",
     "tailwindcss": "latest",
-    "zone.js": "^0.16.0"
+    "zone.js": "~0.14.10"
   },
   "devDependencies": {
     "@types/node": "^18.19.0",
