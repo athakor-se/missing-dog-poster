@@ -1,0 +1,9 @@
+/* Custom styles for Missing Dog Poster app */
+/* Tailwind CSS is loaded via CDN in index.html */
+
+/* Additional custom styles if needed */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
