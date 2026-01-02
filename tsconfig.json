@@ -24,8 +24,13 @@
       ]
     }
   },
-  "files": [
-    "./index.tsx"
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
   ],
   "angularCompilerOptions": {
     "disableTypeScriptVersionCheck": true
